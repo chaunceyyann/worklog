@@ -1,3 +1,7 @@
+/*************************************************************
+ * Program	: work log creator
+ * Author 	: Chauncey Yan
+ * ***********************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
